@@ -1,12 +1,12 @@
 {
  "name": "TG Files to Link",
  "description": "Telegram files to Direct link!!",
- "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "logo": "https://telegra.ph/file/6fa1b5890cc4cb2384f20.jpg",
  "keywords": [
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/shareefshaji/filetolink",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -31,7 +31,7 @@
   },
    "TG_START_MESG": {
       "description": "Set /start Message",
-      "value": ""
+      "value": "/start"
   }
  }
 }
